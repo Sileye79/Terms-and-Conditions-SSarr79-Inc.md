@@ -1,4 +1,4 @@
-#Terms and Conditions of Use 
+#Terms and Conditions of Use
 Definitions:
 Reference to “the Skill” means the Amazon Skill that SSarr79, Inc has made available to Customers on the Amazon Alexa skill store;
 Reference to “Alexa” means the Amazon Voice Service that enables Customers to interact with compatible devices using voice;
