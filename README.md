@@ -45,7 +45,7 @@ We may seek your constructive feedback on the Skill, including problems that you
 You further agree that SSarr79, Inc may email you from time to time about your experience with the Skill.
 
 Changes or amendments: 
-We may change, suspend, or discontinue the Skill, or any part of it, at any time without notice. We may amend any of these Terms at our sole discretion by posting the revised terms on the website at https://github.com/jackngai/AlexaPrivacyTermsDocs.  Your continued use of the Skill after the effective date of the revised Terms constitutes acceptance of the Terms.
+We may change, suspend, or discontinue the Skill, or any part of it, at any time without notice. We may amend any of these Terms at our sole discretion by posting the revised terms on the website at https://github.com/Sileye79/Terms-and-Conditions-SSarr79-Inc.md.  Your continued use of the Skill after the effective date of the revised Terms constitutes acceptance of the Terms.
 
 Termination: 
 Your rights under these Terms will automatically terminate without notice if you fail to comply with any of the Terms. In case of such termination, we may immediately revoke your access to the Skill. You must therefore immediately cease all activities authorised by these Terms, and you must immediately delete or remove the Skill from all Devices, immediately destroy all copies of the Skill and any related documents in your possession, custody or control and certify to us that you have done so.
